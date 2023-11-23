@@ -233,7 +233,7 @@ a, a:visited {
 }
 
 .c5 {
-    background-color: #706233;
+    background-color: #B0926A;
 }
 
 .c6 {
@@ -254,5 +254,5 @@ a, a:visited {
 
 .last {
     color: white;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+    text-shadow: 5px 5px 4px rgba(0, 0, 0, 1)
 }
