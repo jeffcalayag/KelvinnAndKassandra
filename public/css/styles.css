@@ -32,6 +32,22 @@ font-family: 'Montserrat', sans-serif;
     transform: translate(-50%, -50%);
 }
 
+.bible-bearer {
+    line-height: .5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.attire {}
+
+p {
+    margin-top: 10px;    /* Adjust the top margin */
+    margin-bottom: 10px; /* Adjust the bottom margin */
+  }
+
+
 /* Centered text font*/
 .home-font {
     font-family: 'amelia', serif;
@@ -59,13 +75,12 @@ h2.home-font {
 }
 .home-sub-font {
     font-family: 'Zen Loop' , serif;
-    font-size: 5vw;
+    font-size: 3vw;
     color: #B36957;
-    margin-top: 5px;
 }
 
 
-/* Font size for desktop/laptop screens */
+Font size for desktop/laptop screens
 @media screen and (min-width: 768px) {
     p.home-sub-font {
         font-family: 'Montserrat', sans-serif;
@@ -173,6 +188,15 @@ a, a:visited {
     font-family: 'Montserrat', sans-serif;
     font-size: 3vh;
     color: #B36957;
+    line-height: .5;
+  }
+
+  .card-txt-sub {
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3vh;
+    color: #B36957;
   }
 
   .circles-container {
@@ -184,8 +208,8 @@ a, a:visited {
 }
 
 .circle {
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     background-color: #ccc; /* Default color for unfilled circles */
     border-radius: 50%;
     display: inline-block;
@@ -229,6 +253,6 @@ a, a:visited {
 }
 
 .last {
-    color: #2b0d0a;
+    color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
 }
