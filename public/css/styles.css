@@ -184,8 +184,8 @@ a, a:visited {
 }
 
 .circle {
-    width: 65px;
-    height: 65px;
+    width: 60px;
+    height: 60px;
     background-color: #ccc; /* Default color for unfilled circles */
     border-radius: 50%;
     display: inline-block;
@@ -222,4 +222,13 @@ a, a:visited {
 
 .c8 {
     background-color: #401201;
+}
+
+.c9 {
+    background-color: #E48F45;
+}
+
+.last {
+    color: #2b0d0a;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
 }
