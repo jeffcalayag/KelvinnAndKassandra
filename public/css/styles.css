@@ -193,25 +193,33 @@ a, a:visited {
 }
 
 .c1 {
-    background-color: #8a584c;
+    background-color: #ebcb9e;
 }
 
 .c2 {
-    background-color: #8fa6ac;
+    background-color: #b98f68;
 }
 
 .c3 {
-    background-color:  #f5eacf;
+    background-color:  #6b2914;
 }
 
 .c4 {
-    background-color: #ceb793;
+    background-color: #570e06;
 }
 
 .c5 {
-    background-color: #85865f;
+    background-color: #2b0d0a;
 }
 
 .c6 {
-    background-color: #4f583d;
+    background-color: #A73121;
+}
+
+.c7 {
+    background-color: #BFA18F;
+}
+
+.c8 {
+    background-color: #401201;
 }
